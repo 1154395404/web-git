@@ -5,3 +5,7 @@ function f() {
 
 }
 f();
+
+console.log('fdfds');
+console.log('fdfds');
+console.log('fdfds');
