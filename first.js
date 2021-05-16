@@ -7,6 +7,8 @@ function f() {
 f();
 
 
+console.log('hello hot-fix conflict');
+console.log('hello hot-fix conflict');
 console.log('hello hot-fix');
 console.log('hello hot-fix');
 console.log('hello hot-fix');
